@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h5 id="project-description">Project Description</h5>
 <p>Project Idea:</p>
 <p>Transportation is the lifeline of any country, whether for commercial or personal purposes. The bus location tracking system makes management and administration of buses a far more simple and optimized process. With detailed bus location reports, any accident occurred, operations of buses can become streamlined. Moreover, the security of the passengers will be absolutely ensured with the help of our bus location tracking system.</p>
